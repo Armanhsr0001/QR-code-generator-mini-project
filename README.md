@@ -139,18 +139,21 @@ Before you begin, ensure you have the following prerequisites installed:
 ## Screenshots
 
 ### Admin Page
-![image](https://github.com/AzeemIdrisi/QR-Attendance-System/assets/112647789/e4c9f2d8-6b8e-44de-a63d-f7e5db45383e)
+![image](<img width="764" height="362" alt="img1" src="https://github.com/user-attachments/assets/d7a0179c-3f52-48fd-a474-649f8349dd42" />
+)
 
 ### Student Page
-![image](https://github.com/AzeemIdrisi/QR-Attendance-System/assets/112647789/a8e2f4a7-831c-4ac5-8e1b-c917a9ca9001)
+![image](<img width="757" height="355" alt="img2" src="https://github.com/user-attachments/assets/c865e5f9-d25f-47f3-a1d0-3ae8e7a9ce75" />
+)
 
 ### Submission Successful Page
-![image](https://github.com/AzeemIdrisi/QR-Attendance-System/assets/112647789/0f77779e-7648-4356-84c0-7db58b3e786c)
+![image](<img width="757" height="361" alt="img3" src="https://github.com/user-attachments/assets/f1a8cda6-31a1-43a4-ba53-8f6bf3140940" />
+)
 
 
 ## Contributions
 
-We welcome contributions from the community! If you'd like to contribute to this project, please follow our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions from the community! If you'd like to contribute to this project.
 
 ## Developer
 Created by Arman (2301010037)
