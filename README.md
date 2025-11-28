@@ -12,7 +12,6 @@
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [License](#license)
 - [Contributions](#contributions)
 - [Developers](#develpers)
@@ -140,7 +139,8 @@ Before you begin, ensure you have the following prerequisites installed:
 
 We welcome contributions from the community! If you'd like to contribute to this project, please follow our [contribution guidelines](CONTRIBUTING.md).
 
-## Developers
-Created by __Team Hokage__ during __Live The Code 2.0__ Hackathon.
+## Developer
 
-Contributors : [Mohd Azeem](https://github.com/AzeemIdrisi), [Dheeraj Jha](https://github.com/Dheerajjha451), [Shantanu Pant](https://github.com/Shanty34)
+Arman (2301010037)
+
+B.Tech CSE
