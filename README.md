@@ -2,7 +2,8 @@
 
 # QR Attendance System
 
-![image](https://github.com/AzeemIdrisi/QR-Attendance-System/assets/112647789/dbc0c061-76d0-45bb-b5da-7f4373ffd073)
+![image](<img width="627" height="298" alt="image" src="https://github.com/user-attachments/assets/12d6794a-30c6-428d-8358-f8a67ca0f9d8" />
+)
 
 </div>
 
